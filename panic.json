@@ -1,0 +1,1799 @@
+[
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SCMto",
+    "compatibleDevices": [
+      "Vibration"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Systick watchdog",
+    "compatibleDevices": [
+      "Big Audio"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Systick watchdog2 not pet",
+    "compatibleDevices": [
+      "Gyroscope"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "No pulse on",
+    "compatibleDevices": [
+      "Big Audio / Front Speaker / Vibration"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AMCC ERROR",
+    "compatibleDevices": [
+      "Front Speaker"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AOP DATA ABORT",
+    "compatibleDevices": [
+      "Hard Drive First / CPU Solder Joint"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AOP Panic ( 7 Plus )",
+    "compatibleDevices": [
+      "Proximity Sensing / Rear Mic / Power Flex / Fingerprint"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AOP Panic",
+    "compatibleDevices": [
+      "Big Audio / Screen Failure"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AOP data link CMD / timeout;bus 0",
+    "compatibleDevices": [
+      "CPU down"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "K2-bosch control",
+    "compatibleDevices": [
+      "Vibration"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "PressureController.cpp:280",
+    "compatibleDevices": [
+      "Layer inspection L3302 / Rear Camera / Others can check the Distance / sensor",
+      "The Rear MIC 7P Boot Cable / / Check Whether The Fingerprint is Damaged"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Attemping to forcibly halt CPU...cpu0 fail CPU",
+    "compatibleDevices": [
+      "CPU Solder Joint"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Anc-postnand.c1260 asser / failed link",
+    "compatibleDevices": [
+      "Nand"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AMCC Error",
+    "compatibleDevices": [
+      "Light Sensitive"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AppleBCMWLAN",
+    "compatibleDevices": [
+      "WiFi / Bluetooth"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AGXK AGXAcceletor",
+    "compatibleDevices": [
+      "Gyroscope Accelerator Coprocessor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AppleSOC Hot Hot Hot",
+    "compatibleDevices": [
+      "WiFi / Big Audio/ CPU Repealing"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AOP NMI POWER",
+    "compatibleDevices": [
+      "Front Cable / Power Button Cable"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Apple PMGR",
+    "compatibleDevices": [
+      "Battery"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "ANS",
+    "compatibleDevices": [
+      "Hard Disk Circuit Or Board Layer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "ANS2",
+    "compatibleDevices": [
+      "Hard Disk Circuit Or Board Layer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Apple PPM",
+    "compatibleDevices": [
+      "Charging ic / Battery Conversion"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "apcie ( WLAN )",
+    "compatibleDevices": [
+      "WiFi Module"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "A kext releasing",
+    "compatibleDevices": [
+      "First Consider the CPU inductance"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "A freed zone element has been modified",
+    "compatibleDevices": [
+      "CPU Solder Joint"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "apcie(0:s3e)",
+    "compatibleDevices": [
+      "Hard Disk"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "AppleHIDTransportProtocol",
+    "compatibleDevices": [
+      "Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "APFS_TREE",
+    "compatibleDevices": [
+      "Hard Disk  Nand"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Bad tallq elm",
+    "compatibleDevices": [
+      "Main Crystal Oscillator / Wide Angle Camera / Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "BASEBAND",
+    "compatibleDevices": [
+      "BASEBAND Part"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "cluster_pusherr:expectedNULL",
+    "compatibleDevices": [
+      "Load SoftWare"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Coherency point error",
+    "compatibleDevices": [
+      "Rear Camera"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "CP_COM_NORM REQUEST",
+    "compatibleDevices": [
+      "CPU Hard Disk / Camera Circuit"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "CSL AUDIO",
+    "compatibleDevices": [
+      "Audio Related"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "CAN Snoop",
+    "compatibleDevices": [
+      "Ply Stub"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "DCP PANIC",
+    "compatibleDevices": [
+      "Charging Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "DPC err",
+    "compatibleDevices": [
+      "Hard disk and baseband circuit",
+      "Crystal oscillator"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "DPC errUNKNOWN:multiple) on / E-core",
+    "compatibleDevices": [
+      "PMU Buck",
+      "Voltage Or CPU"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Dart-disp0 SMMU error",
+    "compatibleDevices": [
+      "Rear Camera"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Ememory",
+    "compatibleDevices": [
+      "Hard Disk or Hard Disk Related Circuit"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "enableHalogen:3833 / Unknow sample rate on DAC",
+    "compatibleDevices": [
+      "Audio"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Firmware fatal",
+    "compatibleDevices": [
+      "Firmware / Underlying / Power Button Line"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Halt\\Restart Timed out",
+    "compatibleDevices": [
+      "Tail Plug / Earphone Amplifier"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "fed err(parity counter overflow multi hit ICTAG)",
+    "compatibleDevices": [
+      "Hard Disk"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Fatal coherency point error / CP_com_NORM",
+    "compatibleDevices": [
+      "BUCK CPU Power Supply Problem",
+      "/ CPU Side Inductance"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Initproc exited -- exit",
+    "compatibleDevices": [
+      "Try SoftWare or CPU Reball"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Invaild queue element linkage",
+    "compatibleDevices": [
+      "The Hard Disk is Welded or Damaged"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "IOMFB int hander",
+    "compatibleDevices": [
+      "Screen or Screen 0 8V Power Supply 16"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Key hdr kind!=NEW",
+    "compatibleDevices": [
+      "Display ic"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Initproc exited",
+    "compatibleDevices": [
+      "Main Crystal Failure"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Kernel data abort",
+    "compatibleDevices": [
+      "Restore / Hard Disk / Board Layer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "L2C",
+    "compatibleDevices": [
+      "WiFi / Audio Amplification"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "LLC Bus error from cpu3 : FAR",
+    "compatibleDevices": [
+      "Abnormal Communication between CPU and WiFi"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Menorystaus_jetsam_thread",
+    "compatibleDevices": [
+      "Hard Disk"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "LSU",
+    "compatibleDevices": [
+      "WiFi"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "LLC",
+    "compatibleDevices": [
+      "Baseband Circuitry Possibly Audio"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Mbuf_watchdog:12 waiters stuck",
+    "compatibleDevices": [
+      "Boot Cable / Tail Plug / Power Button"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "lop_rinobuffer",
+    "compatibleDevices": [
+      "Audio Related"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "mubf_watchdog:2waiters stuck",
+    "compatibleDevices": [
+      "Hard Disk has bad sectors"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Nvme",
+    "compatibleDevices": [
+      "Hard Disk"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "NO pulse on",
+    "compatibleDevices": [
+      "Vibration / Pulse  Ring Vibration"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Pre , next",
+    "compatibleDevices": [
+      "Main Crystal Failure"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Reset sequence did not finish within S000ms",
+    "compatibleDevices": [
+      "Abnormal Communication between / CPU and WiFi"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Rtunref Bad refcnt",
+    "compatibleDevices": [
+      "Hard Disk"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Pmap_enter_pv.unexpected PV head",
+    "compatibleDevices": [
+      "Earpiece Row",
+      "Small Audio"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "PMP NMI FIQ",
+    "compatibleDevices": [
+      "CPU Power Supply"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "RTBuddy ( AOP ) / setmanagedGated",
+    "compatibleDevices": [
+      "Battery Holder"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Releasing non_exclusive",
+    "compatibleDevices": [
+      "CPU Inductor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Sep memory protection module error",
+    "compatibleDevices": [
+      "EEPROM ( Screen / CPU / Baseband )"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Sep ROM boot Panic [Scrubbed",
+    "compatibleDevices": [
+      "EEPROM CPU",
+      "Resistors Or CPU"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SEP ROM",
+    "compatibleDevices": [
+      "FingerPrint ROM / Logic Chip"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SEP Panic: :dxio\\/ I2C : 0X100007785",
+    "compatibleDevices": [
+      "EEPROM CPU",
+      "Resistors Or CPU"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SEP Panic: :sars\\/ sars: 0X10000f439",
+    "compatibleDevices": [
+      "EEPROM CPU",
+      "Resistors Or CPU"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC DATA ABORT",
+    "compatibleDevices": [
+      "Abnormal CPU Communication"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Stacks+routined-2019 01 29",
+    "compatibleDevices": [
+      "The ipad is Mostly Caused by the Battery / Screw post being too long  Special iPad"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "sks request timeout",
+    "compatibleDevices": [
+      "CPU to Logic Code Fragment Line / EEPROM"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC PANIC",
+    "compatibleDevices": [
+      "CPU Power Supply Check Inductance"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Spmi timeout",
+    "compatibleDevices": [
+      "Audio Related"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SEP Panic sars/sars",
+    "compatibleDevices": [
+      "Earpiece Row / Small Audio"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Sleep \\wake hang detected",
+    "compatibleDevices": [
+      "Battery / Audio CPU Powered"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SEP panic:: daio/i2c",
+    "compatibleDevices": [
+      "Down Antenna Problem"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Timeout waiting for stop to IDLE on EP",
+    "compatibleDevices": [
+      "Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Trying to change a collection in the registry",
+    "compatibleDevices": [
+      "Just Flash"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Void applesynopsysMIPIDSIController",
+    "compatibleDevices": [
+      "Front Cable"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "WDT timeout",
+    "compatibleDevices": [
+      "Battery / Battery connector"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "WKDMD ERROR code 0x2",
+    "compatibleDevices": [
+      "Flashing error 14 Hard Disk"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x164",
+    "compatibleDevices": [
+      "Problem With Device Pressure Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x174",
+    "compatibleDevices": [
+      "Problem With Device Accelerometer Or Gravity Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x184",
+    "compatibleDevices": [
+      "Problem With Device Gyroscope Or Rotation Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x154",
+    "compatibleDevices": [
+      "Problem With Device Humidity Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x134",
+    "compatibleDevices": [
+      "Problem With Device Proximity Sensor Or Light Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x144",
+    "compatibleDevices": [
+      "Problem With Device Ambient Temperature Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x104",
+    "compatibleDevices": [
+      "Problem With Device Accelerometer Or Gravity Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x114",
+    "compatibleDevices": [
+      "Problem With Device Gyroscope Or Rotation Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x124",
+    "compatibleDevices": [
+      "Problem With Device Magnetometer Or Compass Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x91",
+    "compatibleDevices": [
+      "Problem With Device Network Connectivity  Like as wifi Or Cellular Signal issues"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x93",
+    "compatibleDevices": [
+      "Problem With Device Gyroscope"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x94",
+    "compatibleDevices": [
+      "Problem With Device Camera Or imaging System"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x84",
+    "compatibleDevices": [
+      "Problem With Device Vibration Motor Or Haptic Feedback"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x81",
+    "compatibleDevices": [
+      "Problem With Device Camera Or imaging System"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x71",
+    "compatibleDevices": [
+      "Problem With Device Audio Or Speaker System"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x83",
+    "compatibleDevices": [
+      "Problem With Device Proximity Sensor Or Screen Auto-dimming Feature"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x73",
+    "compatibleDevices": [
+      "Problem With Device Ambient Light Sensor Or Automatic Brightness Adjustment"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x74",
+    "compatibleDevices": [
+      "Problem With Device Speaker Or Audio Output"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x63",
+    "compatibleDevices": [
+      "Problem With Device Accelerometer Or Motion Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x61",
+    "compatibleDevices": [
+      "Problem With Device Display  Like as Flickering Or Pixelation"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x42",
+    "compatibleDevices": [
+      "indicates a thermal issue  Like  Overheating"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x64",
+    "compatibleDevices": [
+      "Problem With Device Microphone Or Audio input"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x51",
+    "compatibleDevices": [
+      "Problem With Device Scurity Features Or Encryption"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x41",
+    "compatibleDevices": [
+      "Battery Data issue"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1D4",
+    "compatibleDevices": [
+      "Problem With Device Gyroscope Or Orientation Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x80000",
+    "compatibleDevices": [
+      "Proximity Flex Cable"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1E4",
+    "compatibleDevices": [
+      "Problem With Device Barometer Or Altitude Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1F4",
+    "compatibleDevices": [
+      "Problem With Device Thermometer Or Temperature Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1B4",
+    "compatibleDevices": [
+      "Problem With Device Ambient Light Sensor Or Automatic Brightness Adjustment"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1A4",
+    "compatibleDevices": [
+      "Problem With Device Proximity Sensor Or Light Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1C4",
+    "compatibleDevices": [
+      "Problem With Device Proximity Sensor Or Screen Auto-dimming Feature"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x140000",
+    "compatibleDevices": [
+      "Charging Port / Power Button Flex / Barometer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x180000",
+    "compatibleDevices": [
+      "Prox Flex / Power Button Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x40000",
+    "compatibleDevices": [
+      "Charging Port Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x60000",
+    "compatibleDevices": [
+      "Proximity Flex Cable"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x20000",
+    "compatibleDevices": [
+      "Sandwich Board issue / Gyro"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x1800",
+    "compatibleDevices": [
+      "Both Charging Port Flex & Prox Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x400",
+    "compatibleDevices": [
+      "Reball interposer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x4000",
+    "compatibleDevices": [
+      "Part Of The Battery"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x800",
+    "compatibleDevices": [
+      "Charging Port Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x10000",
+    "compatibleDevices": [
+      "Power Button Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x1000",
+    "compatibleDevices": [
+      "Proximity Flex Cable"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x194",
+    "compatibleDevices": [
+      "Problem With The Device Magnetometer Or Compass Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x214",
+    "compatibleDevices": [
+      "Problem With Device Pressure Sensor Or Air Pressure Detection Mechanism"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (1) | 0x204",
+    "compatibleDevices": [
+      "Problem With Device Humidity Sensor Or Moisture Detection System"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xD4",
+    "compatibleDevices": [
+      "Problem With Device Ambient Temperature Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xE4",
+    "compatibleDevices": [
+      "Problem With Device Humidity Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xF4",
+    "compatibleDevices": [
+      "Problem With Device Pressure Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xC4",
+    "compatibleDevices": [
+      "Problem With Device Fingerprint Sensor Or Biometric Authentication"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xA4",
+    "compatibleDevices": [
+      "Problem With Device Touch Screen Or Digitizer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xD1",
+    "compatibleDevices": [
+      "Vibration Motor Or Haptic Feedback"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xB4",
+    "compatibleDevices": [
+      "Problem With Device SIM CARD Or Cellular Connectivity"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xE1",
+    "compatibleDevices": [
+      "Ambient Light Sensor Or Proximity Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xF1",
+    "compatibleDevices": [
+      "Gyroscope Or Accelerometer"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xA1",
+    "compatibleDevices": [
+      "GPS Or Location Services"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xa1",
+    "compatibleDevices": [
+      "Battery Communications"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xB1",
+    "compatibleDevices": [
+      "Touch ID Or Face ID Functionality"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xC1",
+    "compatibleDevices": [
+      "Microphone Or Audio input"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xD00000",
+    "compatibleDevices": [
+      "indicate issues with the device’s sensors",
+      "Like as problems with /  The Accelerometer",
+      "Gyroscope",
+      "Proximity Sensor",
+      "or Ambient Light Sensor"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xB00000",
+    "compatibleDevices": [
+      "audio-related issues",
+      "including problems with the device’s speakers",
+      "microphones",
+      "headphone jack",
+      "or audio output"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xF00000",
+    "compatibleDevices": [
+      "indicate miscellaneous hardware issues not covered by other / specific codes",
+      "Like as problems with the  device’s buttons",
+      "Connectors Or overall Hardware integrity"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x1C0000",
+    "compatibleDevices": [
+      "Charging Port / Power Button Flex / Prox Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xA00000",
+    "compatibleDevices": [
+      "Battery  Related issues"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xC0000",
+    "compatibleDevices": [
+      "Prox Flex / Charging Port Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0xC00000",
+    "compatibleDevices": [
+      "relate to issues with the device’s security features",
+      "Like as / problems with  Touch ID",
+      "Face ID",
+      "or the device’s secure enclave"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x400000",
+    "compatibleDevices": [
+      "Wireless Charging Flex  Back Glass"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x500000",
+    "compatibleDevices": [
+      "Battery Communications"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x700000",
+    "compatibleDevices": [
+      "Charging Flex / Wireless Charging Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x600000",
+    "compatibleDevices": [
+      "Wireless Charging Flex / Proximity Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x800000",
+    "compatibleDevices": [
+      "Software  Related issues"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x280000",
+    "compatibleDevices": [
+      "Charging Flex / Wireless Charging Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x100000",
+    "compatibleDevices": [
+      "Power Button Flex / Charging Port Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x200000",
+    "compatibleDevices": [
+      "Proximity Flex Cable"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TT1P / TT2P",
+    "compatibleDevices": [
+      "Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TG0B",
+    "compatibleDevices": [
+      "Battery No Data"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC Panic | Sensor Array (2) | 0x300000",
+    "compatibleDevices": [
+      "It`s the Proximity Flex Cable / indicate issues related to the device’s camera or imaging system",
+      "Like as  camera failures",
+      "autofocus problems",
+      "or issues with image stabilization"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TP3R",
+    "compatibleDevices": [
+      "NTC Problem"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TP1A",
+    "compatibleDevices": [
+      "Battery Failure"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "Prs0",
+    "compatibleDevices": [
+      "Charging Port Flex / U7400"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TP2A / TP3R / TP4H",
+    "compatibleDevices": [
+      "Battery / Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TP2C",
+    "compatibleDevices": [
+      "Battery / Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "MIC1",
+    "compatibleDevices": [
+      "Charging Port Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "MIC2",
+    "compatibleDevices": [
+      "Power Button Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "TG0V / TTSA",
+    "compatibleDevices": [
+      "Charging Port Flex"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SpringBoard",
+    "compatibleDevices": [
+      "Restore"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "600seconds",
+    "compatibleDevices": [
+      "Hard Disk  Nand"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c0 | CPU A8",
+    "compatibleDevices": [
+      "U1202 U1501 U1502 U1700"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c0 | CPU A9",
+    "compatibleDevices": [
+      "U2000 04000 U4020"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c0 | CPU A10",
+    "compatibleDevices": [
+      "U1801 U3703 U3701 U4001 U2301"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c0 | CPU A11",
+    "compatibleDevices": [
+      "U2700 U5600 U5660 U6110 J6400"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c0 | CPU A12",
+    "compatibleDevices": [
+      "U2700 U6110 J6400"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c1 | CPU A12",
+    "compatibleDevices": [
+      "J4300"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c1 | CPU A11",
+    "compatibleDevices": [
+      "J4300 J6400"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c1 | CPU A10",
+    "compatibleDevices": [
+      "U1801 U2101 U4601"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c1 | CPU A9",
+    "compatibleDevices": [
+      "U3800 U2300 U3700 U4500"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c1 | CPU A8",
+    "compatibleDevices": [
+      "U1580 U1400 U1401 U1601 J2118"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c2 | CPU A8",
+    "compatibleDevices": [
+      "J1111 J2019"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c2 | CPU A9",
+    "compatibleDevices": [
+      "J3100 J4200 U4050"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c3 | CPU A10",
+    "compatibleDevices": [
+      "Tail plug / Rear MIC / Screen"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c2 | CPU A10",
+    "compatibleDevices": [
+      "U3301 J4503"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c2 | CPU A11",
+    "compatibleDevices": [
+      "U3301 J4200 U5000"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c2 | CPU A12",
+    "compatibleDevices": [
+      "U5002"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c3 | CPU A12",
+    "compatibleDevices": [
+      "Display Power / Touch / Touch Seat"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c4 | CPU A11",
+    "compatibleDevices": [
+      "Logic Chip"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c5 | CPU A10",
+    "compatibleDevices": [
+      "Logic Chip"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c3 | CPU A11 \" 8 Generation \"",
+    "compatibleDevices": [
+      "Tail Plug / Display Socket / Screen / Backlight Chip ( U5650 ) ( 8p )"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "i2c3 | CPU A11 \" X Series \"",
+    "compatibleDevices": [
+      "Display Power / Touch / Touch Seat"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC i2c0 | CPU A11",
+    "compatibleDevices": [
+      "U3100 / U3300 / U3400 / U6200 / J3200"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC i2c0 | CPU A12",
+    "compatibleDevices": [
+      "U3300 / U3400 / U6200 / J3200"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC i2c1 | CPU A12",
+    "compatibleDevices": [
+      "USB Chip Main Power"
+    ]
+  },
+  {
+    "brand": "Multi",
+    "category": "cat_panic",
+    "subCategory": "",
+    "partName": "SMC i2c1 | CPU A11",
+    "compatibleDevices": [
+      "USB Chip Main Power"
+    ]
+  }
+]
