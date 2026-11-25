@@ -1,0 +1,9 @@
+{
+  "notif_1": {
+    "id": "notif_welcome",
+    "title": "مرحباً بك في MADAR Compatibility",
+    "message": "تم تشغيل المنظومة بنجاح، يمكنك الآن فحص وتتبع كافة توافقات وبدائل قطع الغيار.",
+    "date": "2026-11-26",
+    "type": "announcement"
+  }
+}

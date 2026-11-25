@@ -1,0 +1,10 @@
+{
+  "app_version": "1.0.0",
+  "build_number": 1,
+  "data_version": 1,
+  "force_update": false,
+  "release_date": "2026-11-26",
+  "release_notes": "• الإطلاق الرسمي لتطبيق MADAR Compatibility\n• فحص التحديثات الفورية والتحميل التلقائي",
+  "download_url_android": "https://github.com/fadixido/madar-compatibility/releases/download/v1.0.0/MADAR.apk",
+  "download_url_windows": "https://github.com/fadixido/madar-compatibility/releases/download/v1.0.0/MADAR.Setup.exe"
+}
